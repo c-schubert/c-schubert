@@ -1,4 +1,19 @@
-### Hi there 👋
+### Hi there 👋 and welcome to my github page
+
+I'm Christian a process engineer currently working at Tenova LOI Thermprocess GmbH. 
+I studied materials engineering at the RWTH Aachen University and have done my PhD at the department for industrial furnaces and heat engineering of the RWTH.
+My work is mainly focused on the process engineering and R&D of heat treatment and melting processes within the steel but also non-ferrous industry.
+I would describe myself as an process engieer and applied user of CFD and FEM modelling software. 
+I am more focused on the modelling target (application) than on the development the numerical methods itself.
+Within my repositories you will mostly find "user defined" extensions of CFD codes (ANSYS Fluent and OpenFOAM), as well as some self-written heat engineering process simulation libraries/software.
+All repositories are not very well maintained, as they were mostly generated within the context of specific projects. 
+You can find more about my research projects on my researchgate or orchid page.
+
+
+
+
+
+
 
 <!--
 **c-schubert/c-schubert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
